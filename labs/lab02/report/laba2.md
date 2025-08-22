@@ -60,7 +60,7 @@ _ssh-keygen -t rsa -b 4096_
 
 _ssh-keygen -t ed25519_
 
-![](https://github.com/Soiroys/study_2024-2025_os-intro/blob/master/labs/lab02/report/image/Снимок%20экрана%202025-08-22%20215836.png?raw=true)
+![](https://github.com/Steshencko/study_2025-2026_os-intro/blob/master/labs/lab02/report/image/1.png)
 
 ### Создайте ключи pgp
 Генерируем ключ
@@ -85,7 +85,7 @@ GPG запросит личную информацию, которая сохр�
 
 Комментарий. Можно ввести что угодно или нажать клавишу ввода, чтобы оставить это поле пустым.
 
-!()[https://github.com/Soiroys/study_2024-2025_os-intro/blob/master/labs/lab02/report/image/Снимок%20экрана%202025-08-23%20000433.png?raw=true]
+!()[https://github.com/Steshencko/study_2025-2026_os-intro/blob/master/labs/lab02/report/image/2.png]
 
 #### Настройка github
 
@@ -112,7 +112,7 @@ Cкопируйте ваш сгенерированный PGP ключ в буф
 _gpg --armor --export <PGP Fingerprint> | xclip -sel clip_
 
 Перейдите в настройки GitHub (https://github.com/settings/keys), нажмите на кнопку New GPG key и вставьте полученный ключ в поле ввода.
-![](https://github.com/Soiroys/study_2024-2025_os-intro/blob/master/labs/lab02/report/image/Снимок%20экрана%202025-08-22%20221147.png?raw=true)
+![](https://github.com/Steshencko/study_2025-2026_os-intro/blob/master/labs/lab02/report/image/3.png)
 
 ### Настройка автоматических подписей коммитов git
 
