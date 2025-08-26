@@ -1,4 +1,6 @@
 # Лабораторная работа № 6. 
+Стешенко Артём
+
 Анализ файловой системы Linux. Команды для работы с файлами и каталогами
 ### Цель работы
 Ознакомление с файловой системой Linux, её структурой, именами и содержанием
@@ -36,7 +38,7 @@ monthly.00:
 в каталог /tmp
 1 cp -r monthly.00 /tmp
 
-![](https://github.com/Soiroys/study_2024-2025_os-intro/blob/master/labs/lab06/report/image/Снимок%20экрана%202025-08-26%20020623.png?raw=true)
+![](https://github.com/Steshencko/study_2025-2026_os-intro/blob/master/labs/lab06/report/image/1.png)
 #### Перемещение и переименование файлов и каталогов
 Команды mv и mvdir предназначены для перемещения и переименования файлов
 и каталогов.
@@ -87,7 +89,7 @@ reports/monthly.01 в reports/monthly:
 1 cd
 2 touch abc1
 3 chmod g+w abc1
-![](https://github.com/Soiroys/study_2024-2025_os-intro/blob/master/labs/lab06/report/image/Снимок%20экрана%202025-08-26%20024523.png?raw=true)
+![](https://github.com/Steshencko/study_2025-2026_os-intro/blob/master/labs/lab06/report/image/2.png)
 
 Для определения объёма свободного пространства на файловой системе можно воспользоваться командой df, которая выведет на экран список всех файловых систем
 в соответствии с именами устройств, с указанием размера и точки монтирования. Например:
@@ -126,7 +128,7 @@ equipment. Если файла io.h нет, то используйте любо
 3.4. -rw-rw-r-- ... feathers
 При необходимости создайте нужные файлы.
 
-![](https://github.com/Soiroys/study_2024-2025_os-intro/blob/master/labs/lab06/report/image/Снимок%20экрана%202025-08-26%20024456.png?raw=true)
+![](https://github.com/Steshencko/study_2025-2026_os-intro/blob/master/labs/lab06/report/image/3.png)
 
 4.1. Просмотрите содержимое файла /etc/password.
 4.2. Скопируйте файл ~/feathers в файл ~/file.old.
@@ -143,4 +145,4 @@ cat?
 4.12. Дайте владельцу каталога ~/play право на выполнение.
 5. Прочитайте man по командам mount, fsck, mkfs, kill и кратко их охарактеризуйте,
 приведя примеры.
-![](https://github.com/Soiroys/study_2024-2025_os-intro/blob/master/labs/lab06/report/image/Снимок%20экрана%202025-08-26%20020623.png?raw=true)
+![](https://github.com/Steshencko/study_2025-2026_os-intro/blob/master/labs/lab06/report/image/4.png)
