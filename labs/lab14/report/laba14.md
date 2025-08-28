@@ -16,7 +16,7 @@
 режиме. Доработать программу так, чтобы имелась возможность взаимодействия трёх
 и более процессов.
 
-![](https://github.com/Soiroys/study_2024-2025_os-intro/blob/master/labs/lab14/report/image/Снимок%20экрана%202025-08-29%20014522.png?raw=true)
+![](https://github.com/Steshencko/study_2025-2026_os-intro/blob/master/labs/lab14/report/image/1.png)
 
 
 2. Реализовать команду man с помощью командного файла. Изучите содержимое каталога /usr/share/man/man1. В нем находятся архивы текстовых файлов, содержащих
@@ -26,10 +26,10 @@
 результата выдавать справку об этой команде или сообщение об отсутствии справки,
 если соответствующего файла нет в каталоге man1.
 
-![](https://github.com/Soiroys/study_2024-2025_os-intro/blob/master/labs/lab14/report/image/Снимок%20экрана%202025-08-29%20014534.png?raw=true)
-![](https://github.com/Soiroys/study_2024-2025_os-intro/blob/master/labs/lab14/report/image/Снимок%20экрана%202025-08-29%20014603.png?raw=true)
+![](https://github.com/Steshencko/study_2025-2026_os-intro/blob/master/labs/lab14/report/image/2.png)
+![](https://github.com/Steshencko/study_2025-2026_os-intro/blob/master/labs/lab14/report/image/3.png)
 
 3. Используя встроенную переменную $RANDOM, напишите командный файл, генерирующий случайную последовательность букв латинского алфавита. Учтите, что $RANDOM
 выдаёт псевдослучайные числа в диапазоне от 0 до 32767.
 
-![](https://github.com/Soiroys/study_2024-2025_os-intro/blob/master/labs/lab14/report/image/Снимок%20экрана%202025-08-29%20014542.png?raw=true)
+![](https://github.com/Steshencko/study_2025-2026_os-intro/blob/master/labs/lab14/report/image/4.png)
