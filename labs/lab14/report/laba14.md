@@ -33,4 +33,3 @@
 выдаёт псевдослучайные числа в диапазоне от 0 до 32767.
 
 ![](https://github.com/Soiroys/study_2024-2025_os-intro/blob/master/labs/lab14/report/image/Снимок%20экрана%202025-08-29%20014542.png?raw=true)
-![](https://github.com/Soiroys/study_2024-2025_os-intro/blob/master/labs/lab14/report/image/Снимок%20экрана%202025-08-29%20014616.png?raw=true)
